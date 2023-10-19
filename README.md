@@ -13,7 +13,7 @@ Hi there! I'm a software developer with a strong background in computer science.
 
 - **Programming Languages**: Python, TypeScript, JavaScript, Dart, Java, Kotlin, Go, C, C++, C#, PHP, SQL.
 - **Databases**: PostgreSQL, MySQL, MariaDB, Oracle, SQLite, Cloud Firestore, MongoDB, Redis.
-- **Mobile and Web Development**: HTML, CSS, Flutter, Svelte, SvelteKit, React, Angular, Node.js, Android Studio, Flask, - **Express.js, NPM, Bootstrap, TailwindCSS,  REST API, GraphQL, NGINX, Apache, XAMPP, Jest, Vite, Vitest.- **
+- **Mobile and Web Development**: HTML, CSS, Flutter, Svelte, SvelteKit, React, Angular, Node.js, Android Studio, Flask, - **Express.js, NPM, Bootstrap, TailwindCSS,  REST API, GraphQL, NGINX, Apache, XAMPP, Jest, Vite, Vitest.
 - **Soft Skills**: English (Fluent), leadership, communication, critical thinking, teamwork, time management.
 - **Other Tools**: Git, Github, Gitlab, Linux, Figma, Adobe XD, VSCode, Microsoft Office, Google Docs, Google Sheets, Google Cloud Platform (GCP), Firebase, Vercel, Netlify.
 
