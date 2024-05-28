@@ -5,7 +5,7 @@ Hi there! I'm a software developer with a strong background in computer science.
 ## About Me
 
 - 💻 Computer Science Graduate
-- 👨‍💼 2 Years of Professional Experience
+- 👨‍💼 3 Years of Professional Experience
 - 🌐 Passionate about Web Development
 - 🧰 Skilled in Multiple Programming Languages
 
@@ -18,7 +18,7 @@ Hi there! I'm a software developer with a strong background in computer science.
 - **Other Tools**: Git, Github, Gitlab, Linux, Figma, Adobe XD, VSCode, Microsoft Office, Google Docs, Google Sheets, Google Cloud Platform (GCP), Firebase, Vercel, Netlify.
 
 ## Projects
-You can checkout my portofolio here: https://www.ahanprojects.tech/
+You can checkout my portofolio here: https://www.ahan.dev/
 
 ## Get in Touch
 
